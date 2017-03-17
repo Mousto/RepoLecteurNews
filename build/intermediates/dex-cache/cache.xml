@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e004a0ecd838b527580cfa1c51daa90f7c01cd0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="716a387af1cd0e84d637bab4a819d3b8afe38fdb">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4d3acc354be27df523c2da2f68ac4910676a4e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_69e9b9c282344537183ff44f909c311676dcdfbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_79dc5f72b2cc08170341d169b5016e94221b1990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_596a2208039a740e7b9b8c7c99a72749d4f9badf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_8a29fc9c04d448b04ab538f9e8a0356148742d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fbdabeeebe86abdfa7c5b279f82dae3fa8e4bab1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_3afd9df82d41b9369e4494b8e755f50bbae2a131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_a6a7f596e66578ac5d5d024f40755a3b304077f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a001bd994f2869ec5a6dc3b5d028f5f73efc0092">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\instant-run_ac8b946b5a60ef17d75c9a06a21587bd773532a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\libs\fake_news.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="252093e6863eab2595bfc1a36e6418146e7a0558">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\fake_news_3b2ba96ef0179668e850e05420f52e08548ef030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_eec844dbd265a44f5a66a06b2fb5d5ccf010ccd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_81f6d57ee0d045fcedfe60894e92b19cef109ce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_d82619dee1cc25695b1b45c4596080c134951b5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_9dafaf31570f40004d3eb30dad8ff8b3b03adfb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\Android_sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_ede0b415f837e6c740dba62be41dd018edd01b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_902c74b4c367599767fc89b261020b9d107537ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bc979bb0adb07e53d0f017c3ea0c2d7b96423505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Mous\AndroidStudioProjects\LecteurDeNews\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_1a8fa732aa7690159862402fbf6ff846ac9ec038.jar" />
+    </item>
+
+</items>

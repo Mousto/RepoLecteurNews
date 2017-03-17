@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fake_news">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/fake_news.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
